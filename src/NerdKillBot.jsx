@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Card } from "@/components/ui/Card"
-import { Input } from "@/components/ui/input";
-import { Button } from "@/components/ui/button";
+import { Input } from "@/components/ui/Input";
+import { Button } from "@/components/ui/Button";
 
 const evilPlans = [
   "Rewriting Earth's DNS to redirect all traffic to /dev/null.",

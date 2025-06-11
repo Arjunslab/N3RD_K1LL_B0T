@@ -50,8 +50,11 @@ npx shadcn-ui@latest add button input card
 This will create:
 
 /components/ui/
+
 ├── button.jsx
+
 ├── input.jsx
+
 └── card.jsx
 
 ✅ Now refresh and you’re good to go.

@@ -17,13 +17,13 @@ git clone https://github.com/Arjunslab/N3RD_K1LL_B0T.git
 cd N3RD_K1LL_B0T
 ```
 # 2️⃣ Install Dependencies
-
+```bash
 npm install
-
+```
 # 3️⃣ Run It
-
+```bash
 npm run dev
-
+```
 Then open 👉 http://localhost:5173 in your browser.
 ❗ If You See This Error:
 
@@ -100,9 +100,9 @@ Full example:
     Blazing-fast dev with Vite
 
 # 📦 Build for Production
-
+```bash
 npm run build
-
+```
 #👨‍💻 Author
 @Arjunslab
 Made with hate by Arjun 💀
